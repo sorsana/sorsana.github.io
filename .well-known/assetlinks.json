@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.pages.sorsana.twa",
+        "sha256_cert_fingerprints": ["FA:11:77:0C:71:A4:01:B0:72:12:43:93:C0:14:DC:3E:B6:18:17:F7:3F:31:CE:0A:5F:2C:0F:49:8F:96:3F:95"]
+      }
+    }]
